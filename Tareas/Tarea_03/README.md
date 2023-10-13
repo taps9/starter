@@ -1,6 +1,8 @@
 # Horas de sueño de la semana pasada
-### Para empezar, al ver los ejemplos justo me calzó la idea de las horas de sueño, puesto que la semana pasada tuve un ciclo de sueño irregular debido a ciertas actividades que tuve que hacer durante los días.
+### Para empezar, al ver los ejemplos justo me calzó la idea de las horas de sueño, puesto que la semana pasada tuve un ciclo de sueño irregular debido a ciertas actividades que tuve que hacer durante los días transcurridos.
 #### Había pensado en medir también la cantidad de horas de deporte que hago a la semana, pero las horas de sueño las tenía contadas y recopiladas por la razón ya expuesta.
-#### De esta manera, cada día que me iba a acostar veía la hora. Lo mismo hacía cuando me levantaba, logrando saber cuántas horas dormí contando la diferencia. Además, cada uno de estos días debía despertarme a distintas horas para hacer actividades.
+#### De esta manera, cada día que me iba a acostar veía la hora. Lo mismo hacía cuando me levantaba, logrando saber cuántas horas dormí contando la diferencia. Además, cada uno de estos días debía despertarme a distintas horas para hacer actividades, es por eso que especifiqué qué días había puestp alarma.
 #### Es decir, la recolección de datos fue netamente contando cuántas horas dormía según las horas en que me acosté y me desperté.
-#### Si seguimos con la medición, probablemente las horas cambien, ya que la semana psada estuvimos en semana de receso y no tenía que cumplir con horarios universitarios. Ahora, probablemente tenga más organizado el calendario porque, por ejemplo, ensayo en las tardes y noches y me levanto temprano para poder llegar a las clases.
+#### Si seguimos con la medición, probablemente las horas cambien, ya que la semana pasada estuvimos en semana de receso y no tenía que cumplir con horarios universitarios. Ahora probablemente tenga más organizado el calendario porque, por ejemplo, ensayo en las tardes y noches y me levanto temprano para poder llegar a las clases.
+### ¿A qué se refiere con actividad de la noche anterior y, específicamente, noche anterior?
+#### Como lo dice el nombre, es lo que hice en la noche antes de acostarme, por ejemplo, en la variable de días, siempre se refiere a la primera opción que sale entre las dos.
