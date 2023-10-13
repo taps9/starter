@@ -1,9 +1,9 @@
-Días;Horas de sueño;Actividad de la noche anterior;Puse alarma en la mañana?
-Domigo a lunes;8;Nada;No
-Lunes a martes;6;Partido de futbol;No
-Martes a miércoles;7;Ensayo teatro;No
-Miércoles a jueves;6;Ensayo teatro;Si
-Jueves a viernes;7;Ensayo teatro;Si
-Viernes a sábado;6;Nada;Si
-Sábado a domingo;5;Función teatro;Si
-Domingo a lunes;8;Funci+on teatro;No
+,Días,Horas de sueño,Actividad de la noche anterior,Puse alarma en la mañana?
+,Domigo a lunes,8,Nada,No
+Lunes a martes,6,Partido de futbol,No
+Martes a miércoles,7,Ensayo teatro,No
+Miércoles a jueves,6,Ensayo teatro,Si
+Jueves a viernes,7,Ensayo teatro,Si
+Viernes a sábado,6,Nada,Si
+Sábado a domingo,5,Función teatro,Si
+Domingo a lunes,8,Función teatro,No
