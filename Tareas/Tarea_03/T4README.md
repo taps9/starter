@@ -1,0 +1,8 @@
+## Historia
+### Para empezar, la historia que se quiere relatar es el transcurso de esa ajetreada semana. Con los datos expuestos en el CSV (tanto el nuevo como el antiguo), se ve cuántas horas de sueño tuve cada día considerando la semana de receso y que tuve funciones, partidos y ensayos.
+### Las visualizaciones que considero mas oertinentes para mostrar esta historia son los gráficos de barra porque son los más sencillos de entener. A pesar de esto, al principio fue un problema porque son muchas variables y, al ser cuatro, no podían caber todas y quedar atractivas visualmente en un gráfico de barras.
+### Además, otro problema se avecinaba: no me resultaban la codificación en el Colab. 
+### Después de darle muchas vueltas decidí crear otra vez un archivo CSV, con los mismos datos. Es ahí donde me di cuenta que al parecer no estaba del todo correcto el que tenía anteriormente, puesto que apenas puse el nuevo, me funcionó la codificación.
+ ### Después de lograr hacer le primer gráfico me vi un poco complicado y le pedí ayuda a Chat GPT, quien me hizo el último gráfico que se puede ver en el Colab. 
+ ### Sin embargo, el segundo gráfico pude hacerlo. A pesar de que es básico entrega una infomración con los atos que estaban en el CSV nuevo, por lo que se hizo automáticamente.
+ ### De Esta tarea rescato que pude entender de mejor manera como plasmar lo que aprendimos. Antes tenía las cosas más en el aire y esto me ayudó a entender mejor y aterrizar cómo usar el phyton. A pesar de aproximarme, considero que todavía me falta mucho por aprender y retener los conceptos, puesto que son muy fáciles de olvidar.
